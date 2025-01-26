@@ -5,7 +5,7 @@ Module 9 SQL challenge homework
 
 EmployeeSQL Overview
 
-CSV Files
+CSV Files used as data
 
 Entity Relationship Diagram
 
@@ -16,14 +16,19 @@ Data Analysis Queries
 ## EmployeeSQL Overview
 This project involves designing and implementing a SQL database to manage employee data for Pewlett Hackard, a fictional company. The database is populated with data from CSV files representing employee information from the 1980s and 1990s. The project includes data modeling, data engineering, and data analysis.
 
-##CSV Files
+## CSV Files used as data
 The project includes the following CSV files:
 
 employees.csv - Contains employee details (e.g., ID, name, hire date).
+
 departments.csv - Contains department details (e.g., ID, name).
+
 titles.csv - Contains title details (e.g., ID, title).
+
 salaries.csv - Contains salary information (e.g., employee ID, salary, dates).
+
 dept_emp.csv - Contains department-employee assignments (e.g., employee ID, department ID, dates).
+
 dept_managers.csv - Contains department managers(e.g., department, employee ID).
 
 ## Entity Relationship Diagram
